@@ -30,3 +30,8 @@ Here are some ideas to get you started:
 #### Operating System
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![ubuntu](https://img.shields.io/badge/Lubuntu-0068C8?style=for-the-badge&logo=lubuntu&logoColor=white) ![windows](    https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+#### Language and Framework want to learn
+[![My Skills](https://skillicons.dev/icons?i=js,kotlin,go,laravel,express,vue,next)](https://skillicons.dev)
+
+## My Statistik
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuntNugie&show_icons=true&theme=tokyonight)
