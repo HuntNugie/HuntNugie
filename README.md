@@ -34,4 +34,6 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=js,kotlin,go,laravel,express,vue,next)](https://skillicons.dev)
 
 ## My Statistik
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuntNugie&show_icons=true&theme=tokyonight)
+![HuntNugie's Stats](https://github-readme-stats.vercel.app/api?username=HuntNugie&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![HuntNugie's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HuntNugie&theme=tokyonight&hide_border=true)
+![HuntNugie's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HuntNugie&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
