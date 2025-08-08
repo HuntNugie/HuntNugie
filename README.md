@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently a Student at [STMIK Mardira Indonesia](https://www.stmik-mi.ac.id/)
 - 🌱 I’m currently learning about Web Development, especially Frontend and Backend
-
+- ⚡ i'm junior programmer
+- 📫 How to reach me: nugiekurniawan02@gmail.com / nugiebinhar@gmail.com
 #### Skill language
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](    https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
 
