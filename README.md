@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![ubuntu](https://img.shields.io/badge/ubuntu-0068C8?style=for-the-badge&logo=ubuntu&logoColor=white) ![windows](    https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 #### Language and Framework want to learn
-[![My Skills](https://skillicons.dev/icons?i=js,go,laravel,express,next,flask,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,go,laravel,express,next,flask,django,fastapi)](https://skillicons.dev)
 
 ## My Statistik
 ![HuntNugie's Stats](https://github-readme-stats.vercel.app/api?username=HuntNugie&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
