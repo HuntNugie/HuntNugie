@@ -1,7 +1,7 @@
 ## Welcome to My Profile HuntNugie(Nugie kurniawan) 👋
 
 ![Header](img/github-header-image%20(14).png)
-<!--
+<!-- 
 **HuntNugie/HuntNugie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
