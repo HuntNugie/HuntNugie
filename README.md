@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 #### Language and Framework want to learn
 [![My Skills](https://skillicons.dev/icons?i=js,laravel,express,next,react)](https://skillicons.dev)
-
+ 
 ## My Statistik
 ![HuntNugie's Stats](https://github-readme-stats.vercel.app/api?username=HuntNugie&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![HuntNugie's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HuntNugie&theme=tokyonight&hide_border=false)
