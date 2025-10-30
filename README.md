@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently a Student at [STMIK Mardira Indonesia](https://www.stmik-mi.ac.id/)
-- 🌱 I’m currently learning about Web Development, especially Frontend and Backend
+- 🌱 I’m currently learning about Web Development, especially Frontend and Backend developer
 - ⚡ i'm junior programmer(WEB DEVELOPMENT)
 - 📫 How to reach me: nugiekurniawan02@gmail.com / nugiebinhar@gmail.com
 #### Skill language
