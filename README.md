@@ -76,7 +76,7 @@
 ### 🖥️ My Coding Radar
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,laravel,react,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=js,php,laravel,react,express" />
 </p>
 
 ---
